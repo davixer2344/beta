@@ -25,6 +25,6 @@ if (!$conn) {
 }else{
     echo "connected successfully"; }
 
-pg_close($conn);
+//pg_close($conn);
 
 ?>
